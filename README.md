@@ -4,7 +4,7 @@ A MERN-stack fitness tracker app.
 
 ## Description:
 
-FitTrackPro is a cross-platform health and wellness application designed to integrate fitness tracking, nutritional guidance, and mental health resources into one accessible platform. Unlike existing applications, which often focus on one aspect of health, FitTrackPro offers a holistic approach, enabling users to manage their well-being from any device, whether mobile or desktop. This report outlines the project’s development stages, issues encountered, resolutions, and reflections on the learning process and team dynamics.
+FitTrackPro is a cross-platform health and wellness application designed to integrate fitness tracking, nutritional guidance, and mental health resources into one accessible platform. Unlike existing applications, which often focus on one aspect of health, FitTrackPro offers a holistic approach, enabling users to manage their well-being from any device, whether mobile or desktop.
 
 ## Technology:
 
